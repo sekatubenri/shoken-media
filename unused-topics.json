@@ -1,10 +1,5 @@
 [
   {
-    "title": "証券口座に必要な書類と本人確認",
-    "category": "shoken",
-    "filename": "shoken-shorui.json"
-  },
-  {
     "title": "配当金が受け取れる証券口座の選び方",
     "category": "shoken",
     "filename": "haitoukin-shoken.json"
